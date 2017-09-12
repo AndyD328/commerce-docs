@@ -6,9 +6,9 @@ taxonomy:
 
 We will learn how to create a custom checkout flow.
 
-Lets create a custom flow and we are going to use it for new orders.
+Let's create a custom flow and we are going to use it for new orders.
 
-Lets create a module that will do this.
+Let's create a module that will do this.
 
 If you are using [Drupal Console](https://drupalconsole.com/), then you can
 execute this command from docroot:
